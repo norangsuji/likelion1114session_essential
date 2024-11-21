@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const StyledGrid = styled.div<{ $columns: string; $gap: string }>`
   display: grid;
